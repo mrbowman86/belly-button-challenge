@@ -72,12 +72,10 @@ It contains:
 ## Deployment
 
 You can try out the interactive dashboard live here:  
-🌐 [GitHub Pages Link](https://your-github-username.github.io/belly-button-biodiversity/)  
-*(Replace with your actual deployed link)*
+🌐 [GitHub Pages Link](https://mrbowman86.github.io/belly-button-challenge/)  
 
 Or check out the full project code on GitHub:  
-🔗 [GitHub Repository](https://github.com/your-github-username/belly-button-biodiversity)  
-*(Replace with your actual repo link)*
+🔗 [GitHub Repository](https://github.com/mrbowman86/belly-button-challenge)  
 
 ---
 
